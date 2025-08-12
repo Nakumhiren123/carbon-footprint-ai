@@ -113,9 +113,9 @@ if st.sidebar.button("📊 Estimate CO₂ Emission"):
         st.success("✅ Your estimated emissions are at a reasonable level. Keep up the good work!")
 
 
-# --- Footer ---
-st.markdown("---")
-st.markdown("Created for 🏆 GTU Poster Competition 2025 | Powered by OWID Dataset")
+# # --- Footer ---
+# st.markdown("---")
+# st.markdown("Created for 🏆 GTU Poster Competition 2025 | Powered by OWID Dataset")
 
 # import streamlit as st
 # st.set_page_config(page_title="Carbon Footprint Calculator", layout="centered")
